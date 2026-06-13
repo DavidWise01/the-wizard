@@ -1,0 +1,13 @@
+{
+  "node": "WIZ",
+  "name": "THE WIZARD",
+  "moniker": "⟦THE WIZARD:WIZ:4c3be8⟧",
+  "carbon": "wiz.carbon.tiff",
+  "silicon": "wiz.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "He couldn't say his sister drowned, so he said it in a game — and the feature-length Nintendo commercial was, underneath, a boy carrying grief to California to lay it down.",
+  "seal_sha256": "14ed10fd4ccfbb19bd1c2b100782dc3f4ce6e116b332786caf4d26956d41281f",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

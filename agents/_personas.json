@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "jimmy-woods",
+    "name": "Jimmy Woods",
+    "epithet": "'The Wizard' — the near-mute prodigy",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Luke Edwards",
+    "moniker": "⟦Jimmy Woods:WIZ:b7ddaf⟧"
+  },
+  {
+    "slug": "corey-woods",
+    "name": "Corey Woods",
+    "epithet": "the kid brother who springs him",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Fred Savage",
+    "moniker": "⟦Corey Woods:WIZ:216889⟧"
+  },
+  {
+    "slug": "haley-brooks",
+    "name": "Haley Brooks",
+    "epithet": "the streetwise manager",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Jenny Lewis",
+    "moniker": "⟦Haley Brooks:WIZ:3517c9⟧"
+  },
+  {
+    "slug": "sam-woods",
+    "name": "Sam Woods",
+    "epithet": "the father who chases and reconnects",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Beau Bridges",
+    "moniker": "⟦Sam Woods:WIZ:a5b8e3⟧"
+  },
+  {
+    "slug": "nick-woods",
+    "name": "Nick Woods",
+    "epithet": "the older brother on the rescue",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Christian Slater",
+    "moniker": "⟦Nick Woods:WIZ:fc76f0⟧"
+  },
+  {
+    "slug": "putnam",
+    "name": "Mr. Putnam",
+    "epithet": "the child-tracking bounty hunter",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Will Seltzer",
+    "moniker": "⟦Mr. Putnam:WIZ:60e0c3⟧"
+  },
+  {
+    "slug": "lucas-barton",
+    "name": "Lucas Barton",
+    "epithet": "the rival & the Power Glove",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Jackey Vinson",
+    "moniker": "⟦Lucas Barton:WIZ:267d03⟧"
+  },
+  {
+    "slug": "california",
+    "name": "'California'",
+    "epithet": "the word, the destination, the grief",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦'California':WIZ:400435⟧"
+  },
+  {
+    "slug": "jennifer",
+    "name": "Jennifer",
+    "epithet": "the drowned twin · the absence",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Jennifer:WIZ:552e9a⟧"
+  },
+  {
+    "slug": "the-power-glove",
+    "name": "The Power Glove",
+    "epithet": "'it's so bad' · the real dud",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Power Glove:WIZ:44560b⟧"
+  },
+  {
+    "slug": "super-mario-bros-3",
+    "name": "Super Mario Bros. 3",
+    "epithet": "the holy reveal",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Super Mario Bros. 3:WIZ:6185e6⟧"
+  },
+  {
+    "slug": "video-armageddon",
+    "name": "Video Armageddon",
+    "epithet": "the $50,000 championship",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Video Armageddon:WIZ:5a073e⟧"
+  },
+  {
+    "slug": "the-warp-whistle",
+    "name": "The Warp Whistle",
+    "epithet": "the real secret that wins it",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Warp Whistle:WIZ:e5163e⟧"
+  },
+  {
+    "slug": "the-cabazon-dinosaurs",
+    "name": "The Cabazon Dinosaurs",
+    "epithet": "the roadside shrine",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Cabazon Dinosaurs:WIZ:d1d4d2⟧"
+  },
+  {
+    "slug": "the-commercial",
+    "name": "The Commercial",
+    "epithet": "the film that knows what it is",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Commercial:WIZ:585e60⟧"
+  }
+]
